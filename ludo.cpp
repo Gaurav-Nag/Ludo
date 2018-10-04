@@ -4,9 +4,9 @@
 #include<iostream>
 
 using namespace std;
-//comment
+
 int from[24][2] = {
-252, 252,
+52, 252,
 212, 252,
 252, 212,
 252, 12,
