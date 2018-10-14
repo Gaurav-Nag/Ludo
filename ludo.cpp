@@ -4,7 +4,7 @@
 #include<iostream>
 
 using namespace std;
-//comment --no-all
+//comment checking --no-all command
 int from[24][2] = {
 52, 252,
 212, 252,
